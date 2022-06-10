@@ -3,6 +3,10 @@ LABEL maintainer="sergey.nevmerzhitsky@gmail.com"
 
 WORKDIR /tmp/
 
+ENV ftp_proxy=http://proxy-dmz.intel.com:912
+ENV http_proxy=http://proxy-dmz.intel.com:912
+ENV https_proxy=http://proxy-dmz.intel.com:912
+
 RUN set -ex; \
     dpkg --add-architecture i386; \
     DEBIAN_FRONTEND=noninteractive apt-get update -y; \
@@ -18,6 +22,9 @@ RUN set -ex; \
         wget \
         unzip \
         xz-utils \
+	winbind \
+        fluxbox \
+	x11vnc \
         xvfb
 
 RUN set -ex; \

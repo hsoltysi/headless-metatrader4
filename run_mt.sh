@@ -39,7 +39,9 @@ Xvfb $DISPLAY -screen $SCREEN_NUM $SCREEN_WHD \
     &> /tmp/xvfb.log &
 XVFB_PID=$!
 sleep 2
-
+fluxbox &
+x11vnc -bg -nopw -rfbport 5900 -forever -xkb -o /tmp/x11vnc.log
+sleep 2
 # @TODO Use special argument to pass value "startup.ini"
 wine terminal /portable startup.ini &
 TERMINAL_PID=$!
