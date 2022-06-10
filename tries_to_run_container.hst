@@ -1,0 +1,408 @@
+    1  systemctl status ssh.service
+    2  export | grep -i prox
+    3  ls -alrt /etc/apt/apt.conf.d/
+    4  fgrep -i prox /etc/apt/apt.conf.d/
+    5  fgrep -i prox /etc/apt/apt.conf.d/*
+    6  cat /etc/os-release 
+    7  https_proxy="http://proxy-chain.intel.com:911" apt-get update
+    8  https_proxy="http://proxy-chain.intel.com:911" sudo apt-get update
+    9  export https_proxy="http://proxy-chain.intel.com:911
+   10  "
+   11  export http_proxy="http://proxy-chain.intel.com:911"
+   12  export ftp_proxy="http://proxy-chain.intel.com:911"
+   13  sudo apt-get update
+   14  export | grep -i prox
+   15  sudo apt-get update
+   16  ping google.pl
+   17  nslookup google.pl
+   18  nslookup wp.pl
+   19  apt update
+   20  sudo apt update
+   21  lsblk
+   22  shutdown /h now
+   23  exit
+   24  systemctl status sshd
+   25  export | grep prox
+   26  sudo apt update
+   27  export ftp_proxy="http://proxy-chain.intel.com:911"
+   28  export http_proxy="http://proxy-chain.intel.com:911"
+   29  export https_proxy="http://proxy-chain.intel.com:911"
+   30  sudo apt update
+   31  export FTP_PROXY="http://proxy-chain.intel.com:911"
+   32  export HTTP_PROXY="http://proxy-chain.intel.com:911"
+   33  export HTTPS_PROXY="http://proxy-chain.intel.com:911"
+   34  export | grep prox
+   35  sudo apt update
+   36  fgrep prox /etc/apt/apt.conf.d/*
+   37  fgrep PROX /etc/apt/apt.conf.d/*
+   38  ls alrt
+   39  ls
+   40  ip a
+   41  systemctl status sshd
+   42  export | grep -i prox
+   43  sudo apt update
+   44  shutdown h now
+   45  exit
+   46  export | grep prox
+   47  export | grep PROX
+   48  fgrep 'http\:\/\/http\:\/\/' .* 
+   49  fgrep 'http\:\/\/http\:\/\/' /etc/*
+   50  exit
+   51  whoami
+   52  users
+   53  ls -lart /root
+   54  sudo su -
+   55  exit
+   56  ip a
+   57  systemctl status sshd
+   58  export
+   59  apt-get update
+   60  sudo apt-get update
+   61  sudo su -
+   62  ls -lart
+   63  exit
+   64  lsblk
+   65  export | grep -i prox
+   66  ls -lart
+   67  cat .profile 
+   68  cat .bashrc 
+   69  cat /etc/bash.bashrc 
+   70  cat /etc/profile
+   71  ls -lart /etc/profile.d/
+   72  cat /etc/profile.d/cedilla-portuguese.sh 
+   73  cat /etc/profile.d/01-locale-fix.sh 
+   74  cat /etc/profile.d/bash_completion.sh 
+   75  cat /etc/profile.d/xdg_dirs_desktop_session.sh 
+   76  cat /etc/profile.d/apps-bin-path.sh 
+   77  cat /etc/profile.d/vte-2.91.sh 
+   78  ls -lart
+   79  ls -lart ./con
+   80  ls -lart .bash_history 
+   81  cat .bash_history 
+   82  fgrep -i proxy-chain ./.*
+   83  fgrep -i proxy-chain ./*/*
+   84  fgrep -i proxy-chain /etc/*
+   85  fgrep -i proxy-chain /etc/*/*
+   86  fgrep -i proxy-chain /etc/*/* 2> /dev/null 
+   87  fgrep -i proxy-chain /usr/* 2> /dev/null 
+   88  fgrep -i proxy-chain /usr/*/* 2> /dev/null 
+   89  export | grep -i prox
+   90  fgrep -i prox /usr/*/* 2> /dev/null 
+   91  fgrep -i prox /usr/* 2> /dev/null 
+   92  fgrep -i prox /etc/* 2> /dev/null 
+   93  fgrep -i prox /etc/*/* 2> /dev/null 
+   94  fgrep -i prox ./* 2> /dev/null 
+   95  fgrep -i prox ./.* 2> /dev/null 
+   96  fgrep -i prox ./.*/* 2> /dev/null 
+   97  fgrep -i prox etc/*/* 2> /dev/null 
+   98  fgrep -i prox /etc/*/* 2> /dev/null 
+   99  fgrep -i prox /etc/* 2> /dev/null 
+  100  fgrep -i prox /etc/apt/* 2> /dev/null 
+  101  esport | grep -i prox
+  102  export | grep -i prox
+  103  export ftp_proxy="http://proxy-chain.intel.com:911"
+  104  export http_proxy="http://proxy-chain.intel.com:911"
+  105  export https_proxy="http://proxy-chain.intel.com:911"
+  106  export no_proxy="localhost,127.0.0.0/8,::1"
+  107  apt-get update
+  108  ip a
+  109  sudo su -
+  110  exit
+  111  ip a
+  112  apt-get install tmux
+  113  sudo apt-get install tmux
+  114  ls -lart
+  115  ls -lart Downloads/
+  116  ls -lart Documents/
+  117  mount
+  118  cat /etc/fstab 
+  119  export | grep -i prox
+  120  lsblk
+  121  ip a
+  122  lsblk
+  123  mount
+  124  echo $UNAME
+  125  cat /etc/fstab 
+  126  ansible-pull -U https://sv-gitlab.igk.intel.com/sv-playbooks/sys-cert-account.git -C 0.0.1 -f
+  127  sudo apt install ansible
+  128  ansible-pull -U https://sv-gitlab.igk.intel.com/sv-playbooks/sys-cert-account.git -C 0.0.1 -f
+  129  ls -lart
+  130  cd Downloads/
+  131  ls -lart
+  132  wget http://isscorp.intel.com/IntelSM_BigFix/33570/package/scan/labscanaccount.sh
+  133  ls -lart
+  134  vim labscanaccount.sh 
+  135  sudo apt install vim 
+  136  vim labscanaccount.sh 
+  137  chmod +x labscanaccount.sh 
+  138  ./labscanaccount.sh 
+  139  sudo ./labscanaccount.sh 
+  140  ls -lart
+  141  ip a
+  142  uptime
+  143  lastlog 
+  144  nslookup kennedypass003.igk.intel.com
+  145  nslookup kennedypass001.igk.intel.com
+  146  nslookup kennedypass002.igk.intel.com
+  147  nslookup kennedypass003.igk.intel.com
+  148  nslookup kennedypass004.igk.intel.com
+  149  for i in "206 207 208 209" do; echo -e "${1}: "$(nmap -sn 10.91.28.$i | grep ^Host | cut -d " " -f 3)"\t"$(nmap -sn 10.91.29.$i | grep ^Host | cut -d " " -f 3); done
+  150  for i in "206 207 208 209"; do echo -e "${i}: "$(nmap -sn 10.91.28.$i | grep ^Host | cut -d " " -f 3)"\t"$(nmap -sn 10.91.29.$i | grep ^Host | cut -d " " -f 3); done
+  151  sudo apt install nmap
+  152  for i in "206 207 208 209"; do echo -e "${i}: "$(nmap -sn 10.91.28.$i | grep ^Host | cut -d " " -f 3)"\t"$(nmap -sn 10.91.29.$i | grep ^Host | cut -d " " -f 3); done
+  153  nmap -sn  10.91.28.206
+  154  nmap -sn 10.91.28.207
+  155  nmap -sn 10.91.28.208
+  156  nmap -sn 10.91.28.209
+  157  for i in "204 206 208 210"; do echo "${i}: "; done
+  158  for i in "204 206 208 210"; do echo -n "${i}: "; done
+  159  for i in 204 206 208 210 ; do echo "${i}: "; done
+  160  for i in 204 206 208 210 ; do echo "${i}: "$(nmap -sn 10.91.28.$i | grep ^Host | cut -d " " -f 3); done
+  161  for i in 204 206 208 210 ; do echo "${i}: "$(nmap -sn 10.91.28.$i | grep ^Host | cut -d " " -f 3)"\t1"; done
+  162  for i in 204 206 208 210 ; do echo "${i}: "$(nmap -sn 10.91.28.$i | grep ^Host | cut -d " " -f 3)"/t 1"; done
+  163  for i in 204 206 208 210 ; do echo -e "${i}: "$(nmap -sn 10.91.28.$i | grep ^Host | cut -d " " -f 3)"/t 1"; done
+  164  for i in 204 206 208 210 ; do echo -e "${i}: "$(nmap -sn 10.91.28.$i | grep ^Host | cut -d " " -f 3)"\t 1"; done
+  165  for i in 204 206 208 210 ; do echo -e "${i}: "$(nmap -sn 10.91.28.$i | grep ^Host | cut -d " " -f 3)"\t\t 1"; done
+  166  for i in 204 206 208 210 ; do echo -e "${i}: "$(nmap -sn 10.91.28.$i | grep ^Host | cut -d " " -f 3)"\t "$(nmap -sn 10.91.29.$i | grep ^Host | cut -d " " -f 3); done
+  167  tmux 
+  168  tmux ls
+  169  tmux a -t 0
+  170  ls -lart /mnt/Pool-1/s3/results/SPECjbb-VMware/BPS/10.211.0.18/D8x64-T5-pwrTmp
+  171  tmux ls
+  172  tmux new-session
+  173  tmux a -t 0
+  174  tmux ls
+  175  tmux a -t 1
+  176  tmux a -t 0
+  177  ls -lart
+  178  scp -r root@10.211.0.49:/opt/solben/vroc-* .
+  179  cd vroc-ic
+  180  ls -lart
+  181  cat > ./history.log
+  182  cat history.log 
+  183  cd ../vroc-ic-mssql/
+  184  cat > ./history.log
+  185  ls -lart
+  186  cat history.log 
+  187  cat ../vroc-ic/history.log 
+  188  cat ../vroc-ic/invent_us 
+  189  ssh root@10.2.28.175
+  190  ls -alrt
+  191  uptime
+  192  shutdown -h now
+  193  lsblk
+  194  free-h
+  195  free -h
+  196  ip a
+  197  lsblk -o TYPE,MODEL
+  198  sudo shutdown -h now
+  199  tmux ls
+  200  lsblk
+  201  eject /dev/sdb
+  202  sudo eject /dev/sdb
+  203  lsblk
+  204  shutdown -h now
+  205  sudo shutdown -h now
+  206  lsblk
+  207  dmesg 
+  208  lsblk
+  209  lsusb
+  210  lsblk -o MODEL,TYPE
+  211  ls -alrt /mnt/
+  212  mkdir -p /mnt/pen
+  213  sudo mkdir -p /mnt/pen
+  214  sudo mount /dev/sdb1 /mnt/pen/
+  215  ls -alrt /mnt/pen/
+  216  ls -alrt /mnt/pen/Passphrases/
+  217  ls -alrt /mnt/pen/
+  218  ls -alrt /mnt/pen/X64/
+  219  ls -alrt /mnt/pen/cmdtool/
+  220  ls -alrt /mnt/pen/X64/SCRT/
+  221  ls -alrt /mnt/pen/
+  222  umount /mnt/pen
+  223  sudo umount /mnt/pen
+  224  lsblk
+  225  eject /dev/sdb
+  226  sudo eject /dev/sdb
+  227  lsblk
+  228  sudo mount /dev/sdb1 /mnt/pen/
+  229  ls -lart /mnt/pen/
+  230  sudo eject /dev/sdb
+  231  lsblk
+  232  sudo parted /dev/sdb
+  233  lsblk
+  234  sudo mount /dev/sdb /mnt/pen/
+  235  ls -lart /mnt/pen/
+  236  ls -lart /mnt/pen/ITP\ -\ Launch\ diagnostic/
+  237  sudo eject /dev/sdb
+  238  sync
+  239  sudo sync
+  240  lsblk
+  241  sudo mount /dev/sdb1 /mnt/pen/
+  242  ls -lart /mnt/pen/
+  243  sudo eject /dev/sdb
+  244  sync
+  245  lsblk
+  246  sudo mount /dev/sdb /mnt/pen/
+  247  ls -lart /mnt/pen/
+  248  sudo eject /dev/sdb
+  249  sync
+  250  lsblk
+  251  sudo mount /dev/sdb1 /mnt/pen/
+  252  ls -lart /mnt/pen/
+  253  ls -lart /mnt/pen/*/
+  254  ls -lart /mnt/pen/
+  255  lsblk
+  256  sudo eject /dev/sdb
+  257  sync
+  258  sudo shutdown -h now
+  259  whoami
+  260  cat /etc/passwd
+  261  echo $HOME
+  262  mkdir -p MetaTrader
+  263  cd MetaTrader/
+  264  ls -lart
+  265  docker
+  266  snapctl 
+  267  snap --help
+  268  snap --version
+  269  cd ..
+  270  git clone https://github.com/hsoltysi/docker-metatrader.git
+  271  export | grep -i prox
+  272  export ftp_proxy="http://proxy-dmz.intel.com:912"
+  273  export http_proxy="http://proxy-dmz.intel.com:912"
+  274  export https_proxy="http://proxy-dmz.intel.com:912"
+  275  sudo yum update
+  276  sudo apt-get update
+  277  sudo apt-get install docker.io
+  278  git clone https://github.com/hsoltysi/docker-metatrader.git
+  279  ls -lart
+  280  df -h
+  281  cd docker-metatrader/
+  282  ls -lart
+  283  docker build .
+  284  sudo docker build .
+  285  groups
+  286  sudo groupadd docker
+  287  echo $USER
+  288  sudo usermod -aG docker hsoltysi
+  289  groups
+  290  exit
+  291  ls -lart
+  292  git diff
+  293  docker build .
+  294  cd ..
+  295  cd docker-metatrader/
+  296  git config
+  297  git config --show-origin
+  298  git--show-origin
+  299  git --show-origin
+  300  git config -l
+  301  cd ..
+  302  git clone https://github.com/hsoltysi/headless-metatrader4.git
+  303  ls -lart
+  304  cd headless-metatrader4/
+  305  ls -lart
+  306  export | grep -i prox
+  307  ls -alrt /home/hsoltysi/MetaTrader/
+  308  docker run -it --rm --cap-add=SYS_PTRACE -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 nevmerzhitsky/headless-metatrader4
+  309  docker run -d --rm --cap-add=SYS_PTRACE -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /home/hsoltysi/Pictures:/tmp/screenshots nevmerzhitsky/headless-metatrader4
+  310  docker ps
+  311  docker exec 6cad87f9c69f /screenshot.sh
+  312  docker exec 6cad87f9c69f /docker/screenshot.sh
+  313  docker ps
+  314  docker exec 6cad87f9c69f bash
+  315  ls
+  316  docker ps
+  317  docker stop 6cad87f9c69f
+  318  docker ps
+  319  docker run -d --rm --cap-add=SYS_PTRACE -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /home/hsoltysi/Pictures:/tmp/screenshots --entry-point bash nevmerzhitsky/headless-metatrader4
+  320  docker run -it --entry-point bash --rm --cap-add=SYS_PTRACE -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /home/hsoltysi/Pictures:/tmp/screenshots nevmerzhitsky/headless-metatrader4
+  321  docker run --help
+  322  docker run -it --entrypoint bash --rm --cap-add=SYS_PTRACE -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /home/hsoltysi/Pictures:/tmp/screenshots nevmerzhitsky/headless-metatrader4
+  323  docker run -d --rm --cap-add=SYS_PTRACE -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /home/hsoltysi/Pictures:/tmp/screenshots nevmerzhitsky/headless-metatrader4
+  324  docker ps
+  325  docker stop bcc02d55e327
+  326  docker run -d --rm --cap-add=SYS_PTRACE -p 5900:5900 -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /home/hsoltysi/Pictures:/tmp/screenshots nevmerzhitsky/headless-metatrader4
+  327  docker ps
+  328  docker exec -it 576bfad88cde bash
+  329  ls -lart
+  330  cat run_mt.sh 
+  331  vim run_mt.sh 
+  332  docker cp run_mt.sh x11vnc -bg -nopw -rfbport 5900 -forever -xkb -o /tmp/x11vnc.log
+  333  docker ps
+  334  docker cp run_mt.sh 576bfad88cde:/docker/run_mt.sh
+  335  docker exec -it 576bfad88cde cat /docker/run_mt.sh
+  336  docker stop 576bfad88cde
+  337  docker run -d --rm --cap-add=SYS_PTRACE -p 5900:5900 -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /home/hsoltysi/Pictures:/tmp/screenshots nevmerzhitsky/headless-metatrader4
+  338  docker ps
+  339  docker logs 289131cfd01e
+  340  cat Dockerfile 
+  341  vim Dockerfile 
+  342  docker build .
+  343  vim Dockerfile 
+  344  cat ../docker-metatrader/Dockerfile 
+  345  vim Dockerfile 
+  346  docker build .
+  347  docker ps
+  348  docker images
+  349  docker run -d --rm --cap-add=SYS_PTRACE -p 5900:5900 -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /home/hsoltysi/Pictures:/tmp/screenshots 5cb1c7f6092b
+  350  docker ps
+  351  docker stop 289131cfd01e
+  352  docker run -d --rm --cap-add=SYS_PTRACE -p 5900:5900 -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /home/hsoltysi/Pictures:/tmp/screenshots 5cb1c7f6092b
+  353  docker ps
+  354  docker stop c0082e062678
+  355  docker run -d --rm --cap-add=SYS_PTRACE --ipc=host -p 5900:5900 -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /home/hsoltysi/Pictures:/tmp/screenshots 5cb1c7f6092b
+  356  docker ps
+  357  docker stop vibrant_franklin 
+  358  docker run -d --rm --cap-add=SYS_PTRACE --ipc=host -p 5900:5900 -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /home/hsoltysi/Pictures:/tmp/screenshots -v/tmp/.X11-unix:/tmp/.X11-unix:ro -e DISPLAY=${DISPLAY} 5cb1c7f6092b
+  359  docker logs agitated_tharp 
+  360  ls -alrt /tmp/.X11-unix/X1024 
+  361  ls -alrt /tmp/.X11-unix/
+  362  docker ps
+  363  docker run -it --rm --cap-add=SYS_PTRACE --ipc=host -p 5900:5900 -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /home/hsoltysi/Pictures:/tmp/screenshots -v/tmp/.X11-unix:/tmp/.X11-unix:ro -e DISPLAY=${DISPLAY} 5cb1c7f6092b
+  364  docker ps
+  365  docker run -it --rm --cap-add=SYS_PTRACE --ipc=host -p 5900:5900 -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /home/hsoltysi/Pictures:/tmp/screenshots -v/tmp/.X11-unix:/tmp/.X11-unix:ro 5cb1c7f6092b
+  366  docker
+  367  docker ps
+  368  docker ps --all
+  369  ls -alrt
+  370  vim Dockerfile 
+  371  vim run_mt.sh 
+  372  docker build .
+  373  docker ps
+  374  docker images
+  375  docker run -d --rm --cap-add=SYS_PTRACE --ipc=host -p 5900:5900 -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /home/hsoltysi/Pictures:/tmp/screenshots -v/tmp/.X11-unix:/tmp/.X11-unix:ro d2a4efca02d9
+  376  docker exec -it baad6bf6ed874d352c4e96116606719cd7c1d5f9feebeba0035eead95e0d6fec bash
+  377  cat > ./cant_run_vncviewer.lnk
+  378  ls -lart
+  379  echo $DISPLAY
+  380  docker ps
+  381* docker stop 
+  382  docker run -it --network=host --env DISPLAY=localhost:10.0 --cap-add=SYS_PTRACE -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v/tmp/.X11-unix:/tmp/.X11-unix:ro d2a4efca02d9
+  383  docker ps
+  384  docker run -it --network=host --env DISPLAY=localhost:10.0 --cap-add=SYS_PTRACE -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v/tmp/.X11-unix:/tmp/.X11-unix:ro d2a4efca02d9
+  385  docker run -it --network=host --env DISPLAY=localhost:10.0 --cap-add=SYS_PTRACE --volume="$HOME/.Xauthority:/winer/.Xauthority:rw" -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /tmp/.X11-unix:/tmp/.X11-unix:ro d2a4efca02d9
+  386  docker run -it --network=host --env DISPLAY=127.0.0.1:10.0 --cap-add=SYS_PTRACE --volume="$HOME/.Xauthority:/winer/.Xauthority:rw" -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /tmp/.X11-unix:/tmp/.X11-unix:ro d2a4efca02d9
+  387  docker ps
+  388  xauth list
+  389  ip a
+  390  vim run_mt.sh 
+  391  docker run -it --network=host --env DISPLAY="10.91.125.22:10  MIT-MAGIC-COOKIE-1  c8ecb8492f4ffd4c08d8a5f8e013e135" --cap-add=SYS_PTRACE --volume="$HOME/.Xauthority:/winer/.Xauthority:rw" -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /tmp/.X11-unix:/tmp/.X11-unix:ro d2a4efca02d9
+  392  vim Dockerfile 
+  393  vim run_mt.sh 
+  394  vim Dockerfile 
+  395  docker ps
+  396  docker build .c
+  397  docker build .
+  398  docker run -it --network=host --env DISPLAY="10.91.125.22:10" --cap-add=SYS_PTRACE --volume="$HOME/.Xauthority:/winer/.Xauthority:rw" -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /tmp/.X11-unix:/tmp/.X11-unix:ro d790e989b518
+  399  docker run -it --network=host --env DISPLAY="localhost:10" --cap-add=SYS_PTRACE --volume="$HOME/.Xauthority:/winer/.Xauthority:rw" -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /tmp/.X11-unix:/tmp/.X11-unix:ro d790e989b518
+  400  docker run -it --network=host --env DISPLAY="10.91.125.22:10  MIT-MAGIC-COOKIE-1  c8ecb8492f4ffd4c08d8a5f8e013e135" --cap-add=SYS_PTRACE --volume="$HOME/.Xauthority:/winer/.Xauthority:rw" -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /tmp/.X11-unix:/tmp/.X11-unix:ro d790e989b518
+  401  docker run -it --network=host --env DISPLAY="localhost:10" --cap-add=SYS_PTRACE --volume="$HOME/.Xauthority:/winer/.Xauthority:rw" -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /tmp/.X11-unix:/tmp/.X11-unix:ro d790e989b518
+  402  docker run -it --network=host --env DISPLAY="localhost:10.0" --cap-add=SYS_PTRACE --volume="$HOME/.Xauthority:/winer/.Xauthority:rw" -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /tmp/.X11-unix:/tmp/.X11-unix:ro d790e989b518
+  403  docker run -it --network=host --env DISPLAY="localhost:10.0 MIT-MAGIC-COOKIE-1  c8ecb8492f4ffd4c08d8a5f8e013e135" --cap-add=SYS_PTRACE --volume="$HOME/.Xauthority:/winer/.Xauthority:rw" -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /tmp/.X11-unix:/tmp/.X11-unix:ro d790e989b518
+  404  docker ps
+  405  docker run -it --network=host --cap-add=SYS_PTRACE --volume="$HOME/.Xauthority:/winer/.Xauthority:rw" -v /home/hsoltysi/MetaTrader:/home/winer/.wine/drive_c/mt4 -v /tmp/.X11-unix:/tmp/.X11-unix:ro d790e989b518
+  406  docker r ps
+  407  ls -lart
+  408  history > tries_to_run_container.hst
